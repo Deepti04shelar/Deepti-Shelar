@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 **Information Technology Engineering student at PCET's NMIET**
+- 🎓 **Information Technology Engineering Student at PCET's NMIET**
 - 💻 Interested in **Full Stack Development, Java, SQL, and Web Technologies**
 - 🚀 Actively preparing for **placements & technical interviews**
 - 🌱 Currently learning **Advanced SQL, Java & System Design**
@@ -41,15 +41,5 @@
 
 ---
 
-## 📈 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Deepti04shelar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepti04shelar&theme=tokyonight" />
-</p>
-
----
 
 ⭐ *Thank you for visiting my profile!*
