@@ -2,7 +2,10 @@
 
 ### A passionate Information Technology student & aspiring Software Developer from India 🇮🇳
 
-![Coding](https://user-images.githubusercontent.com/74038190/212284100-0c7a1f76-7c56-4c35-9e2a-3d5f1b0c3e87.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-0c7a1f76-7c56-4c35-9e2a-3d5f1b0c3e87.gif" width="400"/>
+</p>
+
 
 ---
 
